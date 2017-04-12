@@ -13,7 +13,7 @@ Itunes Music data fetching demo with streaming
 
 ![Details and streaming Screen](https://github.com/Vipul12Thawre/ItunesMusicDemo/blob/master/screens/awScreenshot_20170412-145401.png "Details and streaming Screen")
 
-# Libraies used
+# Libraries used
 
 [Retrofit](http://square.github.io/retrofit/)
 
