@@ -5,6 +5,8 @@ Itunes Music data fetching demo with streaming
 
 [https://itunes.apple.com/search?term=Michael+jackson](https://itunes.apple.com/search?term=Michael+jackson)
 
+[iTunes Music APK](https://github.com/Vipul12Thawre/ItunesMusicDemo/blob/master/app/itunesMusic.apk)
+
 ## Screens
 
 ![Main Screen](https://github.com/Vipul12Thawre/ItunesMusicDemo/blob/master/screens/awScreenshot_20170412-145350.png "Main Screen")
@@ -14,4 +16,5 @@ Itunes Music data fetching demo with streaming
 # Libraies used
 
 [Retrofit](http://square.github.io/retrofit/)
+
 [Picasso](http://square.github.io/picasso/)
