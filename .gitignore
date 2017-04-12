@@ -8,8 +8,7 @@
 /captures
 .externalNativeBuild
 .idea/
-app/
-build.gradle
+
 gradle.properties
 gradle/
 gradlew

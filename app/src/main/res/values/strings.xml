@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ItunesMusic</string>
+    <string name="album">Album</string>
+    <string name="artist">Artist</string>
+    <string name="album_link">Album link</string>
+    <string name="song_link">Song link</string>
+    <string name="dollar">$</string>
+</resources>
